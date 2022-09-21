@@ -31,3 +31,7 @@ To merge braches use *git merge branch_name" from the accepting brach
 ## Fancy log
 
 To see "fancy log" use *git log --graph"
+
+## Another log
+
+*git reflog* gives another view
